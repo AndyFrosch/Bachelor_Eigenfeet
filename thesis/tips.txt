@@ -1,0 +1,15 @@
+Report Tips
+
+In your report/thesis.pdf, make sure to include:
+
+    Background on biometrics and PCA
+
+    System architecture diagram (like in the paper)
+
+    Preprocessing pipeline visualizations
+
+    Eigenfeet visualization (maybe first 10 eigenvectors)
+
+    Performance metrics (FAR, FRR, ROC curve, rank-1 accuracy)
+
+    Reflections on pros/cons of Eigenfeet method
